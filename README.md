@@ -75,7 +75,6 @@ The app includes multiple screens showcasing different features across all platf
   <img src="screenshots/Screenshot8.png" width="150">
 
 </div>
-<div align="center">
 
 ## 🚀 Getting Started
 
